@@ -7,16 +7,16 @@ This project is a simple login page built using HTML5, CSS3, and JavaScript, int
 
 Check out the live demo here:
 
-Live Demo : https://pratyush0399.github.io/Awac-Assigment/
+Live Demo : https://pratyush0399.github.io/Awac-Web-Assigment/
 
 
 ## Setup Instructions 
 
 1. Clone this repository to your local machine:
-   git clone https://github.com/pratyush0399/Awac-Assigment.git
+   git clone https://github.com/pratyush0399/Awac-Web-Assigment.git
 
 2. Navigate to the project folder:
-   cd Awac-Assigment
+   cd Awac-Web-Assigment
 3. Open the index.html file in your browser:
    open index.html
 
