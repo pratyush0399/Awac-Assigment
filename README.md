@@ -13,9 +13,9 @@ Live Demo :
 ## Setup Instructions 
 
 1. Clone this repository to your local machine:
-   git clone https://github.com/your-username/login-page-assignment.git
+   git clone pratyush0399/probable-broccoli
 2. Navigate to the project folder:
-   cd login-page-assignment
+   cd probable-broccoli
 3. Open the index.html file in your browser:
    open index.html
 
