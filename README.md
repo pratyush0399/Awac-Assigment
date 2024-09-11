@@ -7,7 +7,7 @@ This project is a simple login page built using HTML5, CSS3, and JavaScript, int
 
 Check out the live demo here:
 
-Live Demo : 
+Live Demo : https://pratyush0399.github.io/Awac-Assigment/
 
 
 ## Setup Instructions 
