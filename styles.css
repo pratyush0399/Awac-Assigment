@@ -9,7 +9,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f2f2f2;
+    background-color: #ffffff;
 }
 
 .login-container {
@@ -44,7 +44,7 @@ input[type="text"], input[type="password"] {
 button {
     width: 100%;
     padding: 10px;
-    background-color: #28a745;
+    background-color: #285da7;
     color: white;
     border: none;
     border-radius: 4px;
@@ -53,7 +53,7 @@ button {
 }
 
 button:hover {
-    background-color: #218838;
+    background-color: #285da7;
 }
 
 .error-message {
@@ -64,7 +64,7 @@ button:hover {
 .loading {
     text-align: center;
     font-size: 14px;
-    color: #007bff;
+    color: #285da7;
 }
 
 @media (max-width: 768px) {
