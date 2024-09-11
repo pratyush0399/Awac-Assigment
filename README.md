@@ -13,9 +13,9 @@ Live Demo : https://pratyush0399.github.io/Awac-Assigment/
 ## Setup Instructions 
 
 1. Clone this repository to your local machine:
-   git clone pratyush0399/probable-broccoli
+   git clone pratyush0399/Awac-Assigment
 2. Navigate to the project folder:
-   cd probable-broccoli
+   cd Awac-Assigment
 3. Open the index.html file in your browser:
    open index.html
 
