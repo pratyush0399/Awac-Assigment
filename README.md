@@ -13,7 +13,8 @@ Live Demo : https://pratyush0399.github.io/Awac-Assigment/
 ## Setup Instructions 
 
 1. Clone this repository to your local machine:
-   git clone pratyush0399/Awac-Assigment
+   git clone https://github.com/pratyush0399/Awac-Assigment.git
+
 2. Navigate to the project folder:
    cd Awac-Assigment
 3. Open the index.html file in your browser:
