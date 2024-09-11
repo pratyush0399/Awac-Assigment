@@ -12,3 +12,5 @@ Setup
    cd login-page-assignment
 3. Open the index.html file in your browser:
    open index.html
+
+   Alternatively, drag and drop the index.html file into your browser.
